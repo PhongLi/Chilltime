@@ -28,10 +28,10 @@ body
     right: -30px;
     bottom: -30px;
     left: -30px;
-    background-image: url("./Background/tumblr_nnj8c26vb21u2bcamo1_1280.gif");
+    background-image: url("./Background/tumblr_p1e22w0jeQ1wljtfbo1_1280.gif");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 50%;
+    background-position: 10%;
     filter: blur(4px);
     -webkit-filter: blur(4px);
     z-index: 1;
