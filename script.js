@@ -356,7 +356,6 @@ $(function()
 
             albumName.text(currAlbum);
             trackName.text(currTrackName);
-		albumArt.find('img').attr('src', currArtwork);
             $('#album-art img').prop('src', bgArtworkUrl);
             $('.song').removeClass('playingSong');
             $('#song' + currIndex).addClass('playingSong');
