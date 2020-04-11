@@ -26,7 +26,7 @@ $(function()
 		artist: "l.tus",
 		name: "lotus blossoms",
 		url: "Musics/lotus blossoms.mp3",
-		picture: "https://github.com/PhongLi/KaonashiSounds/blob/master/cover/artworks-000227768356-68chn4-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000231813103-rkzhty-original.jpg"
 	},{
 		artist: "gny",
 		name: "as the rain pours outside",
