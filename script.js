@@ -21,8 +21,48 @@ $(function()
 		buffInterval = null, tFlag = false;
 	
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
-	
+	function shuffle(a) {
+		var j, x, i;
+		for (i = a.length - 1; i > 0; i--) {
+			j = Math.floor(Math.random() * (i + 1));
+			x = a[i];
+			a[i] = a[j];
+			a[j] = x;
+		}
+		return a;
+	}
+	songs = shuffle(songs);
 	var songs = [{
+		artist: "l.tus",
+		name: "lotus blossoms",
+		url: "Musics/lotus blossoms.mp3",
+		picture: "https://github.com/PhongLi/KaonashiSounds/blob/master/cover/artworks-000227768356-68chn4-original.jpg"
+	},{
+		artist: "gny",
+		name: "as the rain pours outside",
+		url: "Musics/as the rain pours outside.mp3",
+		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000232102287-n9yk8y-original.jpg"
+	},{
+		artist: "Aoba",
+		name: "Shogonodo(DalBeats Re - Work)",
+		url: "Musics/Aoba - Shogonodo(DalBeats Re - Work).mp3",
+		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000216845431-oi2e1z-original.jpg"
+	},{
+		artist: "harren",
+		name: "midnight in asakusa",
+		url: "Musics/midnight in asakusa.mp3",
+		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000232126329-1xeizw-original.jpg"
+	},{
+		artist: "harren",
+		name: "sentimental",
+		url: "Musics/sentimental.mp3",
+		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000231813103-rkzhty-original.jpg"
+	},{
+		artist: "sugi.wa",
+		name: "nevermind",
+		url: "Musics/sugi.wa - nevermind.mp3",
+		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000249418478-1hs5zb-original.jpg"
+	},{
 		artist: "Moving",
 		name: "I eat Plants for a living",
 		url: "Musics/I eat Plants for a living - Moving.mp3",
