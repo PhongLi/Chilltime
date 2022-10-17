@@ -26,32 +26,32 @@ $(function()
 		artist: "l.tus",
 		name: "lotus blossoms",
 		url: "Musics/lotus blossoms.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000231813103-rkzhty-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000574847348-6xfhf5-original.jpg"
 	},{
 		artist: "gny",
 		name: "as the rain pours outside",
 		url: "Musics/as the rain pours outside.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000232102287-n9yk8y-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000481580919-iztca5-original.jpg"
 	},{
 		artist: "Aoba",
 		name: "Shogonodo(DalBeats Re - Work)",
 		url: "Musics/Aoba - Shogonodo(DalBeats Re - Work).mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000216845431-oi2e1z-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000234256890-edhgn3-original.jpg"
 	},{
 		artist: "harren",
 		name: "midnight in asakusa",
 		url: "Musics/midnight in asakusa.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000232126329-1xeizw-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000371965452-munoop-original.jpg"
 	},{
 		artist: "harren",
 		name: "sentimental",
 		url: "Musics/sentimental.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000231813103-rkzhty-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000574847348-6xfhf5-original.jpg"
 	},{
 		artist: "sugi.wa",
 		name: "nevermind",
 		url: "Musics/sugi.wa - nevermind.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000249418478-1hs5zb-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000598092845-oatzej-original.jpg"
 	},{
 		artist: "Moving",
 		name: "I eat Plants for a living",
