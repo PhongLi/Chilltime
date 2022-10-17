@@ -26,137 +26,137 @@ $(function()
 		artist: "l.tus",
 		name: "lotus blossoms",
 		url: "Musics/lotus blossoms.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000231813103-rkzhty-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000231813103-rkzhty-original.jpg"
 	},{
 		artist: "gny",
 		name: "as the rain pours outside",
 		url: "Musics/as the rain pours outside.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000232102287-n9yk8y-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000232102287-n9yk8y-original.jpg"
 	},{
 		artist: "Aoba",
 		name: "Shogonodo(DalBeats Re - Work)",
 		url: "Musics/Aoba - Shogonodo(DalBeats Re - Work).mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000216845431-oi2e1z-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000216845431-oi2e1z-original.jpg"
 	},{
 		artist: "harren",
 		name: "midnight in asakusa",
 		url: "Musics/midnight in asakusa.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000232126329-1xeizw-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000232126329-1xeizw-original.jpg"
 	},{
 		artist: "harren",
 		name: "sentimental",
 		url: "Musics/sentimental.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000231813103-rkzhty-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000231813103-rkzhty-original.jpg"
 	},{
 		artist: "sugi.wa",
 		name: "nevermind",
 		url: "Musics/sugi.wa - nevermind.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000249418478-1hs5zb-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000249418478-1hs5zb-original.jpg"
 	},{
 		artist: "Moving",
 		name: "I eat Plants for a living",
 		url: "Musics/I eat Plants for a living - Moving.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000248725672-iej53a-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000248725672-iej53a-original.jpg"
 	}, {
 		artist: "Fujishen",
 		name: "Tweetheart",
 		url: "Musics/LpaS8e1gikMH.128.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-33k8xtyGROfQRCyj-eaUYzw-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-33k8xtyGROfQRCyj-eaUYzw-original.jpg"
 }, {
 		artist: "Russ",
 		name: "Psycho Pt. 2 (beat)",
 		url: "Musics/Russ - Psycho Pt. 2 (beat) _ nt reboot.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000371965452-munoop-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000371965452-munoop-original.jpg"
 }, {
 		artist: "$unXIX",
 		name: "Sunday Morning",
 		url: "Musics/xMol5nRIJ4JL.128.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-QqahOIq02lLBemE8-8r1bZw-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-QqahOIq02lLBemE8-8r1bZw-original.jpg"
 }, {
 		artist: "Elijah Who",
 		name: "Hello",
 		url: "Musics/elijahwho-hello.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000481697607-ar2wrg-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000481697607-ar2wrg-original.jpg"
 }, {
 		artist: "ayeon & lofty ",
 		name: "sketches of home EP",
 		url: "Musics/ayeon & lofty - sketches of home EP.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000631212565-fjlxzs-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000631212565-fjlxzs-original.jpg"
 }, {
 		artist: "Ai Means Love.",
 		name: "would you? (w/ maggery)",
 		url: "Musics/Ai Means Love..mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000598092845-oatzej-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000598092845-oatzej-original.jpg"
 }, {
 		artist: "Frad",
 		name: "Luv Letters ",
 		url: "Musics/Luv Letters - Frad.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000371965452-munoop-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000371965452-munoop-original.jpg"
 }, {
 		artist: "Jordy Chandra ",
 		name: "Rain Will Soon End.",
 		url: "Musics/Rain Will Soon End..mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000677195866-san8t7-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000677195866-san8t7-original.jpg"
 }, {
 		artist: "けｍ SURF ",
 		name: "Stay (ft. SwuM).",
 		url: "Musics/Stay (ft. SwuM).mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-W0HjMQuh9odSzmTk-gtoeLw-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-W0HjMQuh9odSzmTk-gtoeLw-original.jpg"
 },{
 		artist: "Silk.y ",
 		name: " When We.....",
 		url: "Musics/Silk.y. - When We.....mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000371965452-munoop-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000371965452-munoop-original.jpg"
 },{
 		artist: "Nom.",
 		name: "White As Snow",
 		url: "Musics/White As Snow.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000465448080-prc1h0-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000465448080-prc1h0-original.jpg"
 },{
 		artist: "Nom",
 		name: "Sunshine Time !",
 		url: "Musics/Sunshine Time !.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000393366411-zsuzhj-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000393366411-zsuzhj-original.jpg"
 },{
 		artist: "Ahntow",
 		name: "5AM",
 		url: "Musics/5AM(Out on spotify).mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000539597682-uyj7jl-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000539597682-uyj7jl-original.jpg"
 },{
 		artist: "ahiru アヒル",
 		name: "dear carla.",
 		url: "Musics/dear carla.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000225412113-6rufcl-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000225412113-6rufcl-original.jpg"
 },{
 		artist: "Key-One",
 		name: "July08",
 		url: "Musics/July08.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000223666678-h5rlf1-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000223666678-h5rlf1-original.jpg"
 },{
 		artist: "Outgoing Hikikomori",
 		name: "Dancing on my own.",
 		url: "Musics/Dancing on my own.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000240456124-qxqevr-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000240456124-qxqevr-original.jpg"
 },{
 		artist: "lofty",
 		name: "hideaway EP",
 		url: "Musics/hideaway EP.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000481580919-iztca5-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000481580919-iztca5-original.jpg"
 },{
 		artist: "tony stocker",
 		name: "flowing with the wind",
 		url: "Musics/flowing with the wind.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000574847348-6xfhf5-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000574847348-6xfhf5-original.jpg"
 },{
 		artist: "sayuw ",
 		name: "cherry blossom (lust retouch).",
 		url: "Musics/sayuw - cherry blossom (lust retouch).mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000234256890-edhgn3-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000234256890-edhgn3-original.jpg"
 },{
 		artist: "a boy with a balloon",
 		name: "what you do when things go wrong",
 		url: "Musics/what you do when things go wrong_.mp3",
-		picture: "https://raw.githubusercontent.com/PhongLi/KaonashiSounds/master/cover/artworks-000413713464-l67iaw-original.jpg"
+		picture: "https://raw.githubusercontent.com/PhongLi/Chilltime/master/cover/artworks-000413713464-l67iaw-original.jpg"
 },
    ];
 	function shuffle(a) {
